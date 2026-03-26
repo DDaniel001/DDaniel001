@@ -20,9 +20,9 @@ I'm a Computer Science BSc student in my final semester, passionate about backen
 
 ## Highlighted University Repositories
 * **[WebTechnologies2](https://github.com/DDaniel001/WebTechnologies2):** Currently working on this web development project. (Angular, TypeScript, Node.js, MongoDB)
-* **[Parallel Programming](https://github.com/DDaniel001/ParhuzamosEszkozokProgramozasa):** A project focusing on optimizing computational performance and concurrent execution (C-OPENCL/OPENMP).
+* **[Parallel Programming](https://github.com/DDaniel001/ParhuzamosEszkozokProgramozasa):** Currently working on this project focusing on optimizing computational performance and concurrent execution (C-OPENCL/OPENMP).
 * **[Web Technologies](https://github.com/DDaniel001/Web_Technologies):** Foundational web development project demonstrating core web application principles. (HTML, CSS, JavaScript)
-* **[Computer Graphics](https://github.com/DDaniel001/SzamitogepiGrafika):** Graphics programming project showcasing rendering and visual processing techniques (C-OPENGL).
+* **[Computer Graphics](https://github.com/DDaniel001/SzamitogepiGrafika):** Currently working on this graphics programming project showcasing rendering and visual processing techniques (C-OPENGL).
 
 ## How to reach me
 * Email: [dudasdaniel01@gmail.com](mailto:dudasdaniel01@gmail.com)
