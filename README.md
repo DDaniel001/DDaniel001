@@ -9,14 +9,14 @@ I'm a Computer Science BSc student in my final semester, passionate about backen
 * Comfortable working in team environments using Git for version control.
 
 ## Tech Stack
-* **Languages:** C#, C, SQL, JavaScript, HTML, CSS, GDScript, MATLAB, R
+* **Languages:** C#, C, SQL, JavaScript, TypeScript, HTML, CSS, GDScript, MATLAB, R
 * **Architecture & Principles:** MVC, SOLID, OOP, REST API
-* **Tools:** Git, MS Office, LaTeX
+* **Tools:** Git, MS Office, VSC, VS, LaTeX
 
 ## Experience & Projects
 * **Web Application Development:** Designed and implemented backend functionalities using SOLID principles and MVC architecture. Managed user data, developed REST APIs, and handled error management and unit testing in an agile environment.
 * **Inventory Management App:** Handled database management, comprehensive data validation, and query optimization.
-* **Game Development:** Managed the full software development lifecycle (planning, implementation, testing, debugging) for a custom game, including comprehensive technical documentation.
+* **Game Development:** Managing the full software development lifecycle (planning, implementation, testing, debugging) for a custom game, including comprehensive technical documentation.
 
 ## Highlighted University Repositories
 * **[WebTechnologies2](https://github.com/DDaniel001/WebTechnologies2):** Currently working on this web development project. (Angular, TypeScript, Node.js, MongoDB)
