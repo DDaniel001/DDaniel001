@@ -26,4 +26,4 @@ I'm a Computer Science BSc student in my final semester, passionate about backen
 
 ## How to reach me
 * Email: [dudasdaniel01@gmail.com](mailto:dudasdaniel01@gmail.com)
-* LinkedIn: [LinkedIn Profile URL](https://www.linkedin.com/in/d%C3%A1niel-dud%C3%A1s-892716329/)
+* LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/d%C3%A1niel-dud%C3%A1s-892716329/)
